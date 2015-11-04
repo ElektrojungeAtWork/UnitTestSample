@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B27397021BE97EE200FD9444"
-               BuildableName = "UnitTestExample.app"
-               BlueprintName = "UnitTestExample"
-               ReferencedContainer = "container:UnitTestExample.xcodeproj">
+               BlueprintIdentifier = "16F6F8771BE984D1004B10B3"
+               BuildableName = "SampleProjectWithTests.app"
+               BlueprintName = "SampleProjectWithTests"
+               ReferencedContainer = "container:SampleProjectWithTests.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B273971E1BE97EE300FD9444"
-               BuildableName = "UnitTestExampleTests.xctest"
-               BlueprintName = "UnitTestExampleTests"
-               ReferencedContainer = "container:UnitTestExample.xcodeproj">
+               BlueprintIdentifier = "16F6F88D1BE984D2004B10B3"
+               BuildableName = "SampleProjectWithTestsTests.xctest"
+               BlueprintName = "SampleProjectWithTestsTests"
+               ReferencedContainer = "container:SampleProjectWithTests.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B27397291BE97EE300FD9444"
-               BuildableName = "UnitTestExampleUITests.xctest"
-               BlueprintName = "UnitTestExampleUITests"
-               ReferencedContainer = "container:UnitTestExample.xcodeproj">
+               BlueprintIdentifier = "16F6F8981BE984D2004B10B3"
+               BuildableName = "SampleProjectWithTestsUITests.xctest"
+               BlueprintName = "SampleProjectWithTestsUITests"
+               ReferencedContainer = "container:SampleProjectWithTests.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B27397021BE97EE200FD9444"
-            BuildableName = "UnitTestExample.app"
-            BlueprintName = "UnitTestExample"
-            ReferencedContainer = "container:UnitTestExample.xcodeproj">
+            BlueprintIdentifier = "16F6F8771BE984D1004B10B3"
+            BuildableName = "SampleProjectWithTests.app"
+            BlueprintName = "SampleProjectWithTests"
+            ReferencedContainer = "container:SampleProjectWithTests.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B27397021BE97EE200FD9444"
-            BuildableName = "UnitTestExample.app"
-            BlueprintName = "UnitTestExample"
-            ReferencedContainer = "container:UnitTestExample.xcodeproj">
+            BlueprintIdentifier = "16F6F8771BE984D1004B10B3"
+            BuildableName = "SampleProjectWithTests.app"
+            BlueprintName = "SampleProjectWithTests"
+            ReferencedContainer = "container:SampleProjectWithTests.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B27397021BE97EE200FD9444"
-            BuildableName = "UnitTestExample.app"
-            BlueprintName = "UnitTestExample"
-            ReferencedContainer = "container:UnitTestExample.xcodeproj">
+            BlueprintIdentifier = "16F6F8771BE984D1004B10B3"
+            BuildableName = "SampleProjectWithTests.app"
+            BlueprintName = "SampleProjectWithTests"
+            ReferencedContainer = "container:SampleProjectWithTests.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
